@@ -1,0 +1,10 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+*.pyd
+*.dll
